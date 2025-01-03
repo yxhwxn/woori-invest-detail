@@ -1,5 +1,11 @@
+/* ==============================
+   fonts (글꼴)
+============================== */
+@import url("https://static.toss.im/tps/main.css");
+@import url("https://static.toss.im/tps/others.css");
+
 body {
-  font-family: Arial, sans-serif;
+  font-family: "Toss Product Sans";
   margin: 0;
   padding: 0;
   background-color: #f4f6f9;
